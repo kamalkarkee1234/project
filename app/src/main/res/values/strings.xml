@@ -16,4 +16,5 @@
     <string name="phone_number">Phone Number</string>
     <string name="foo">Bar</string>
     <string name="model_information">Model Information</string>
+    <string name="birth_date">Birth Date</string>
 </resources>
